@@ -1,0 +1,15 @@
+{
+  "name": "leet-code-top-100",
+  "version": "1.0.0",
+  "description": "",
+  "main": "GenerateParentheses.js",
+  "dependencies": {
+    "chai": "^4.2.0"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "mocha -w ./**/*.spec.js"
+  },
+  "author": "",
+  "license": "ISC"
+}
